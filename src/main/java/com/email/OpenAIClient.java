@@ -26,7 +26,7 @@ public class OpenAIClient {
 
     public String generateResponse(String prompt,String additionalPrompt) {
         Map<String, Object> requestBody = Map.of(
-                "model", "gpt-3.5-turbo",
+                "model", "gpt-4o-mini",
                 "messages", new Object[] {
                         Map.of("role", "system", "content", additionalPrompt),
                         Map.of("role", "user", "content", prompt)
