@@ -15,9 +15,9 @@
 	<groupId>com.email</groupId>
 	<artifactId>EmailReplyGenerator</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Email-Response-Generator</name>
+	<name>EmailReplyGenerator</name>
 	<description>Generates AI-based responses to emails using Spring Boot and GenAI</description>
-	<url>https://github.com/your-username/email-response-generator</url>
+	<url>https://github.com/Skull-crusher44/EmailReplyGenerator</url>
 
 	<licenses>
 		<license>
